@@ -15,9 +15,23 @@ Etherscan token tracker
 Coingecko token tracker
 
 Deployed Contracts
-   Contract	Address                                         Total issue amount      Burned      Actual circulation
-DACH 2.0	0x0b52599ddec843315224a179ae243eb47c1792ed      3,913,000,000           90%         391,300,000
-DACH 3.0	dach3iotzeus                                    39,000,000              0           39,000,000
+Contract	Address                                         Total issue amount      Burned      Actual circulation
+DACH 2.0	
+Address  
+0x0b52599ddec843315224a179ae243eb47c1792ed
+Total issue amount
+3,913,000,000  
+Burned
+90%
+Actual circulation
+391,300,000
+
+Deployed Contracts
+DACH 3.0	
+Address
+dach3iotzeus                                    
+Total issue amount
+39,000,000
 
 Development
 Install dependencies: yarn install
