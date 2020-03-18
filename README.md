@@ -7,7 +7,7 @@
 ------
 
 ### <img src="http://kan.027cgb.com/628815/DACH-30.png" style="zoom:80%;" /> DACH Ethereum & EOSIO Smart Contract info
-DACH 2.0 -- ERC-20 token used for staking and burning.
+
 
 | Contract | Contract Address                           | Burned | Total issue amount | Actual circulation   |
 | -------- | :----------------------------------------- | ------ | ------------------ | -------------------- |
