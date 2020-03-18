@@ -1,10 +1,12 @@
 # DACH
+![dach3.0](http://kan.027cgb.com/628815/DACH3-0_210.png)
+
 dach smart contracts for security and utility tokens
 
-#DACH Ethereum Smart Contract
+# DACH Ethereum Smart Contract
 DACH 2.0 is an ERC-20 token used for staking and burning.
 
-#DACH EOSIO Smart Contract
+# DACH EOSIO Smart Contract
 DACH 3.0 is an EOSIO token used for business and internet of things IOT.
 
 DACH is the token of the Erasure Protocol and the Numerai Tournament.
