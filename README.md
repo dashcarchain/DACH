@@ -7,7 +7,7 @@
 
 ------
 
-### <img src="http://kan.027cgb.com/628815/DACH-30.png" style="zoom:80%;" /> DACH Ethereum & EOSIO Smart Contract info
+### DACH Ethereum & EOSIO Smart Contract info
 
 
 | Contract | Contract Address                           | Burned | Total issue amount | Actual circulation   |
